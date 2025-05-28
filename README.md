@@ -1,3 +1,5 @@
-# New Repo
+<!-- # New Repo -->
 
-I am Listening because I am from readme
+Conceptual session practice
+
+<!-- # Practice tasks -->
